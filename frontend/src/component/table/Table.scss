@@ -1,0 +1,25 @@
+.btn{
+    margin-left: 10px;
+    margin-right: 10px;
+   
+  
+}
+
+ 
+.btn-edit{
+    color: green;
+}
+
+.btn-trash{
+    color:rgb(158, 16, 16);
+
+    &:hover{
+        color:red;
+    }
+}
+
+
+.center{
+    justify-items: center;
+    align-items: center;
+}
